@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="appium.SampleTestCase" duration-ms="77057" started-at="2019-05-31T00:46:01Z" finished-at="2019-05-31T00:47:18Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="77057" started-at="2019-05-31T00:46:01Z" finished-at="2019-05-31T00:47:18Z">
+      <class name="appium.SampleTestCase">
+        <test-method status="PASS" signature="createAppiumDriver()[pri:0, instance:appium.SampleTestCase@6537cf78]" name="createAppiumDriver" is-config="true" duration-ms="33566" started-at="2019-05-31T00:46:01Z" finished-at="2019-05-31T00:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAppiumDriver -->
+        <test-method status="PASS" signature="sampleTest()[pri:0, instance:appium.SampleTestCase@6537cf78]" name="sampleTest" duration-ms="39636" started-at="2019-05-31T00:46:35Z" finished-at="2019-05-31T00:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:appium.SampleTestCase@6537cf78]" name="afterTest" is-config="true" duration-ms="3794" started-at="2019-05-31T00:47:15Z" finished-at="2019-05-31T00:47:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- appium.SampleTestCase -->
+    </test> <!-- Command line test -->
+  </suite> <!-- appium.SampleTestCase -->
+</testng-results>
